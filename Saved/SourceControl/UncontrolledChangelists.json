@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/StarterContent/Props/SM_PillarFrame.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/FirstPerson/Cat/Mat_Gradient.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/FirstPerson/Cat/634f880cd3944117b4ddc49afe2944f2_fbx_PhysicsAsset.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/FirstPerson/Cat/634f880cd3944117b4ddc49afe2944f2_fbx_Skeleton.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/FirstPerson/Cat/634f880cd3944117b4ddc49afe2944f2_fbx.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/FirstPerson/Cat/634f880cd3944117b4ddc49afe2944f2_fbx_Anim.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Dog/standing.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/LY/73YQ1OW8J2LH44309ORP9I.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/FirstPerson/Blueprints/BP_Dog.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Dog/play_dead.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/FirstPerson/Dog/play_dead.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Dog/Playful_dog.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/FirstPerson/Dog/Playful_dog.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/FirstPerson/Dog/Playful_dog_material_0.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Dog/Playful_dog_material_0.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/FirstPerson/Dog/Playful_dog_PhysicsAsset.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Dog/Playful_dog_PhysicsAsset.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Dog/Playful_dog_Skeleton.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Dog/Playful_dog_texture_0.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/FirstPerson/Dog/Playful_dog_texture_0.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Dog/Playful_dog_texture_1.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/FirstPerson/Dog/Playful_dog_texture_1.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Dog/Playful_dog_texture_2.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/FirstPerson/Dog/Playful_dog_texture_2.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Dog/Playful_dog_texture_3.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/FirstPerson/Dog/Playful_dog_texture_3.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Dog/rollover.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/FirstPerson/Dog/rollover.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Dog/shake.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/FirstPerson/Dog/shake.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Dog/sitting.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/FirstPerson/Dog/sitting.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/FirstPerson/Dog/standing.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Blueprints/NewAnimInstance.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Dog/play_dead_Montage.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Dog/rollover_Montage.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Dog/shake_Montage.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Dog/sitting_Montage.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/Dog/standing_Montage.uasset",
+				"/Users/tranhieutrung/Documents/Unreal Projects/BuddyTrainer/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset"
+			]
+		}
+	]
+}
