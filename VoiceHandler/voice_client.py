@@ -2,11 +2,8 @@ import requests
 import openai
 import speech_recognition as sr
 
-client = openai.OpenAI(api_key="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")
-
-# print("🎤 Speak a command after pressing Enter")
-# input("Press Enter to record...")
-
+api_key = os.getenv("OPENAI_API_KEY")
+client = openai.OpenAI(api_key=api_key)
 
 recognizer = sr.Recognizer()
 with sr.Microphone() as source:
